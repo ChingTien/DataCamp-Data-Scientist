@@ -4,7 +4,7 @@
 ### Introduction to Python
 
 - [x] 01. Python Basic
-- [ ] 02. Python Lists
+- [x] 02. Python Lists
 - [ ] 03. Functions and Package
 - [ ] 04. Numpy
 <br>
