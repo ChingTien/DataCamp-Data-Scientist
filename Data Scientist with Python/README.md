@@ -1,7 +1,7 @@
-## Data Scientist with Python
+# Data Scientist with Python
 <br>
 
-### Introduction to Python
+## Introduction to Python
 
 - [x] 01. Python Basic
 - [x] 02. Python Lists
@@ -9,7 +9,7 @@
 - [x] 04. Numpy
 <br>
 
-### Intermediate Python for Data science
+## Intermediate Python for Data science
 
 - [ ] 05. Matplotlib
 - [ ] 06. Dictionaries & Pandas
@@ -18,8 +18,20 @@
 - [ ] 09. Case Study: Hacker Statistics
 <br>
 
-### Python Data Science Toolbox (Part 1)
+## Python Data Science Toolbox (Part 1)
 
 - [ ] 10. Writing your own functions
 - [ ] 11. Default arguments, variable-length arguments and scope
 - [ ] 12. Lambda functions and error-handling
+<br>
+
+## Python Data Science Toolbox (Part 2)
+- [ ] 13. Using iterators in PythonLand
+- [ ] 14. List comprehensions and generators
+- [ ] 15. Bringing it all together!
+<br>
+
+## Importing Data in Python (Part 1)
+- [ ] 16. Introduction and flat files
+- [ ] 17. Importing data from other file types
+- [ ] 18. Working with relational databases in Python
