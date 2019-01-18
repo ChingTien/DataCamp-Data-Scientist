@@ -5,8 +5,8 @@
 
 - [x] 01. Python Basic
 - [x] 02. Python Lists
-- [ ] 03. Functions and Package
-- [ ] 04. Numpy
+- [x] 03. Functions and Package
+- [x] 04. Numpy
 <br>
 
 ### Intermediate Python for Data science
