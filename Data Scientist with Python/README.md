@@ -12,8 +12,8 @@
 ## Intermediate Python for Data science
 
 - [x] 05. Matplotlib
-- [ ] 06. Dictionaries & Pandas
-- [ ] 07. Logic, Control Flow and Filtering
+- [x] 06. Dictionaries & Pandas
+- [x] 07. Logic, Control Flow and Filtering
 - [ ] 08. Loops
 - [ ] 09. Case Study: Hacker Statistics
 <br>
