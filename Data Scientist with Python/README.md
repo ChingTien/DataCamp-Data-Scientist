@@ -14,7 +14,7 @@
 - [x] 05. Matplotlib
 - [x] 06. Dictionaries & Pandas
 - [x] 07. Logic, Control Flow and Filtering
-- [ ] 08. Loops
+- [x] 08. Loops
 - [ ] 09. Case Study: Hacker Statistics
 <br>
 
