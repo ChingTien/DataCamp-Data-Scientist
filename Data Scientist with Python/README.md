@@ -15,7 +15,7 @@
 - [x] 06. Dictionaries & Pandas
 - [x] 07. Logic, Control Flow and Filtering
 - [x] 08. Loops
-- [ ] 09. Case Study: Hacker Statistics
+- [x] 09. Case Study: Hacker Statistics
 <br>
 
 ## Python Data Science Toolbox (Part 1)
