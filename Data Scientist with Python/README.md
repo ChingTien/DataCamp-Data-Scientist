@@ -21,7 +21,7 @@
 ## Python Data Science Toolbox (Part 1)
 
 - [x] 10. Writing your own functions
-- [ ] 11. Default arguments, variable-length arguments and scope
+- [x] 11. Default arguments, variable-length arguments and scope
 - [ ] 12. Lambda functions and error-handling
 <br>
 
