@@ -22,7 +22,7 @@
 
 - [x] 10. Writing your own functions
 - [x] 11. Default arguments, variable-length arguments and scope
-- [ ] 12. Lambda functions and error-handling
+- [x] 12. Lambda functions and error-handling
 <br>
 
 ## Python Data Science Toolbox (Part 2)
