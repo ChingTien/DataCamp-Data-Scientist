@@ -57,4 +57,45 @@
 - [ ] 28. Exploratory data analysis
 - [ ] 29. Time series in pandas
 - [ ] 30. Case Study - Sunlight in Austin
+<br>
+
+## Manipulating DataFrames with pandas
+- [ ] 31. Extracting and transforming data
+- [ ] 32. Advanced indexing
+- [ ] 33. Rearranging and reshaping data
+- [ ] 34. Grouping data
+- [ ] 35. Bringing it all together
+<br>
+
+## Merging DataFrames with pandas
+- [ ] 36. Preparing data
+- [ ] 37. Concatenating data
+- [ ] 38. Merging data
+- [ ] 39. Case Study - Summer Olympics
+<br>
+
+## Intro to SQL for Data Science
+- [ ] 40. Selecting columns
+- [ ] 41. Filtering rows
+- [ ] 42. Aggregate Functions
+- [ ] 43. Sorting, grouping and joins
+<br>
+
+## Introduction to Databases in Python
+- [ ] 44. Basics of Relational Databases
+- [ ] 45. Applying Filtering, Ordering and Grouping to Queries
+- [ ] 46. Advanced SQLAlchemy Queries
+- [ ] 47. Creating and Manipulating your own Databases
+- [ ] 48. Putting it all together
+<br>
+
+## Introduction to Data Visualization with Python
+- [ ] 49. Customizing plots
+- [ ] 50. Plotting 2D arrays
+- [ ] 51. Statistical plots with Seaborn
+- [ ] 52. Analyzing time series and images
+<br>
+
+## Interactive Data Visualization with Bokeh
+
 
