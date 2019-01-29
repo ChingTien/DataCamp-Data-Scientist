@@ -25,10 +25,10 @@
 - [x] 12. Lambda functions and error-handling
 <br>
 
-## Python Data Science Toolbox (Part 2)
+## [Python Data Science Toolbox (Part 2)](https://github.com/ChingTien/DataCamp/blob/master/Data%20Scientist%20with%20Python/d.%20Statement%20of%20Accomplishment-%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf)
 - [x] 13. Using iterators in PythonLand
 - [x] 14. List comprehensions and generators
-- [] 15. Bringing it all together!
+- [x] 15. Bringing it all together!
 <br>
 
 ## Importing Data in Python (Part 1)
