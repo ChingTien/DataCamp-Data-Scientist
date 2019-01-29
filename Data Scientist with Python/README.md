@@ -28,7 +28,7 @@
 ## Python Data Science Toolbox (Part 2)
 - [x] 13. Using iterators in PythonLand
 - [x] 14. List comprehensions and generators
-- [ ] 15. Bringing it all together!
+- [] 15. Bringing it all together!
 <br>
 
 ## Importing Data in Python (Part 1)
