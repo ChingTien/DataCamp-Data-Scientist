@@ -33,7 +33,7 @@
 
 ## Importing Data in Python (Part 1)
 - [x] 16. Introduction and flat files
-- [ ] 17. Importing data from other file types
+- [x] 17. Importing data from other file types
 - [ ] 18. Working with relational databases in Python
 <br>
 
