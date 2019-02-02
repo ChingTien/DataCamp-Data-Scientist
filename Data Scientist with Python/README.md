@@ -38,7 +38,7 @@
 <br>
 
 ## Importing Data in Python (Part 2)
-- [ ] 19. Importing data from the Internet
+- [x] 19. Importing data from the Internet
 - [ ] 20. Interacting with APIs to import data from the web
 - [ ] 21. Diving deep into the Twitter API
 <br>
