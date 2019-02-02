@@ -31,10 +31,10 @@
 - [x] 15. Bringing it all together!
 <br>
 
-## Importing Data in Python (Part 1)
+## [Importing Data in Python (Part 1)](https://github.com/ChingTien/DataCamp/blob/master/Data%20Scientist%20with%20Python/e.%20Importing%20Data%20in%20Python%20(Part%201)%20Course.pdf)
 - [x] 16. Introduction and flat files
 - [x] 17. Importing data from other file types
-- [ ] 18. Working with relational databases in Python
+- [x] 18. Working with relational databases in Python
 <br>
 
 ## Importing Data in Python (Part 2)
