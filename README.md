@@ -37,10 +37,10 @@
 - [x] 18. Working with relational databases in Python
 <br>
 
-## Importing Data in Python (Part 2)
+## [Importing Data in Python (Part 2)](https://github.com/ChingTien/DataCamp/blob/master/f.%20Importing%20Data%20in%20Python%20(Part%202)%20Course.pdf)
 - [x] 19. Importing data from the Internet
 - [x] 20. Interacting with APIs to import data from the web
-- [ ] 21. Diving deep into the Twitter API
+- [x] 21. Diving deep into the Twitter API
 <br>
 
 ## Cleaning Data in Python
