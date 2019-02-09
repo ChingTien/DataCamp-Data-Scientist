@@ -97,5 +97,63 @@
 <br>
 
 ## Interactive Data Visualization with Bokeh
+- [ ] 53. Basic plotting with Bokeh
+- [ ] 54. Layouts, Interactions, and Annotations
+- [ ] 55. Building interactive apps with Bokeh
+- [ ] 56. Putting It All Together! A Case Study
+<br>
+
+## Statistical Thinking in Python (Part 1)
+- [ ] 57. Graphical exploratory data analysis
+- [ ] 58. Quantitative exploratory data analysis
+- [ ] 59. Thinking probabilistically-- Discrete variables
+- [ ] 60. Thinking probabilistically-- Continuous variables
+<br>
+
+## Statistical Thinking in Python (Part 2)
+- [ ] 61. Parameter estimation by optimization
+- [ ] 62. Bootstrap confidence intervals
+- [ ] 63. Introduction to hypothesis testing
+- [ ] 64. Hypothesis test examples
+- [ ] 65. Putting it all together: a case study
+<br>
+
+## Joining Data in SQL
+- [ ] 66. Introduction to joins
+- [ ] 67. Outer joins and cross joins
+- [ ] 68. Set theory clauses
+- [ ] 69. Subqueries
+<br>
 
 
+
+# Optional SQL Courses
+<br>
+
+## Introduction to Relational Databases in SQL
+- [ ] Your first database
+- [ ] Enforce data consistency with attribute constraints
+- [ ] Uniquely identify records with key constraints
+- [ ] Glue together tables with foreign keys
+<br>
+
+## SQL for Exploratory Data Analysis
+- [ ] What's in the database?
+- [ ] Summarizing and aggregating numeric data
+- [ ] Exploring categorical data and unstructured text
+- [ ] Working with dates and timestamps
+<br>
+
+## Intermediate SQL
+- [ ] We'll take the CASE
+- [ ] Short and Simple Subqueries
+- [ ] Correlated Queries, Nested Queries, and Common Table Expressions
+- [ ] Window Functions
+<br>
+
+## Intermediate SQL Server
+- [ ] Summarizing Data
+- [ ] Math Functions
+- [ ] Processing Data in SQL Server
+- [ ] Window Functions
+<br>
