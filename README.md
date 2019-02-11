@@ -44,9 +44,9 @@
 <br>
 
 ## Cleaning Data in Python
-- [ ] 22. Exploring your data
-- [ ] 23. Tidying data for analysis
-- [ ] 24. Combining data for analysis
+- [x] 22. Exploring your data
+- [x] 23. Tidying data for analysis
+- [x] 24. Combining data for analysis
 - [ ] 25. Cleaning data for analysis
 - [ ] 26. Case study
 <br>
