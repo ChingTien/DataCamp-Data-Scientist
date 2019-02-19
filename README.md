@@ -53,8 +53,8 @@
 
 ## Pandas Foundations
 
-- [ ] 27. Data ingestion & inspection
-- [ ] 28. Exploratory data analysis
+- [x] 27. Data ingestion & inspection
+- [x] 28. Exploratory data analysis
 - [ ] 29. Time series in pandas
 - [ ] 30. Case Study - Sunlight in Austin
 <br>
@@ -125,9 +125,62 @@
 - [ ] 69. Subqueries
 <br>
 
+## Supervised Learning with scikit-learn
+- [ ] 70. Classification
+- [ ] 71. Regression
+- [ ] 72. Fine-tuning your model
+- [ ] 73. Preprocessing and pipelines
+<br>
+
+## Machine Learning with the Experts: School Budgets
+- [ ] 74. Exploring the raw data
+- [ ] 75. Creating a simple first model
+- [ ] 76. Improving your model
+- [ ] 77. Learning from the experts
+<br>
+
+## Unsupervised Learning in Python
+- [ ] 78. Clustering for dataset exploration
+- [ ] 79. Visualization with hierarchical clustering and t-SNE
+- [ ] 80. Decorrelating your data and dimension reduction
+- [ ] 81. Discovering interpretable features
+<br>
+
+## Deep Learning in Python
+- [ ] 82. Basics of deep learning and neural networks
+- [ ] 83. Optimizing a neural network with backward propagation
+- [ ] 84. Building deep learning models with keras
+- [ ] 85. Fine-tuning keras models
+<br>
+
+## Network Analysis in Python (Part 1)
+- [ ] 86. Introduction to networks
+- [ ] 87. Important nodes
+- [ ] 88. Structures
+- [ ] 89. Bringing it all together
+<br>
+
+# Optional Courses
+<br>
+
+## Network Analysis in Python (Part 2)
+- [ ] Bipartite graphs & product recommendation systems
+- [ ] Graph projections
+- [ ] Comparing graphs & time-dynamic graphs
+- [ ] Tying it up!
+<br>
+
+## Introduction to Git for Data Science
+- [ ] Basic workflow
+- [ ] Repositories
+- [ ] Undo
+- [ ] Working with branches
+- [ ] Collaborating
+<br>
 
 
-# Optional SQL Courses
+
+# More SQL Courses
 <br>
 
 ## Introduction to Relational Databases in SQL
@@ -156,4 +209,8 @@
 - [ ] Math Functions
 - [ ] Processing Data in SQL Server
 - [ ] Window Functions
+<br>
+
+
+# DataCamp Project
 <br>
