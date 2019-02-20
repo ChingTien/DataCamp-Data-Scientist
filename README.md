@@ -51,12 +51,12 @@
 - [x] 26. Case study
 <br>
 
-## Pandas Foundations
+## [Pandas Foundations](https://github.com/ChingTien/DataCamp/blob/master/h.%20Statement%20of%20Accomplishment%20-%20pandas%20Foundations%20Course.pdf)
 
 - [x] 27. Data ingestion & inspection
 - [x] 28. Exploratory data analysis
-- [ ] 29. Time series in pandas
-- [ ] 30. Case Study - Sunlight in Austin
+- [x] 29. Time series in pandas
+- [x] 30. Case Study - Sunlight in Austin
 <br>
 
 ## Manipulating DataFrames with pandas
