@@ -178,6 +178,18 @@
 - [ ] Collaborating
 <br>
 
+## Introduction to PySpark
+Getting to know PySpark
+Manipulating data
+Getting started with machine learning pipelines
+Model tuning and selection
+
+
+## Big Data Fundamentals via PySpark
+Introduction to Big Data analysis with Spark
+Programming in PySpark RDD’s
+PySpark SQL & DataFrames
+Machine Learning with PySpark MLlib
 
 
 # More SQL Courses
