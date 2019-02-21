@@ -60,8 +60,8 @@
 <br>
 
 ## Manipulating DataFrames with pandas
-- [ ] 31. Extracting and transforming data
-- [ ] 32. Advanced indexing
+- [x] 31. Extracting and transforming data
+- [x] 32. Advanced indexing
 - [ ] 33. Rearranging and reshaping data
 - [ ] 34. Grouping data
 - [ ] 35. Bringing it all together
