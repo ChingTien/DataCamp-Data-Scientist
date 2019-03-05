@@ -59,12 +59,12 @@
 - [x] 30. Case Study - Sunlight in Austin
 <br>
 
-## Manipulating DataFrames with pandas
+## [Manipulating DataFrames with pandas](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/i.%20Statement%20of%20Accomplishment%20-%20Manipulating%20DataFrames%20with%20pandas%20Course.pdf)
 - [x] 31. Extracting and transforming data
 - [x] 32. Advanced indexing
 - [x] 33. Rearranging and reshaping data
-- [ ] 34. Grouping data
-- [ ] 35. Bringing it all together
+- [x] 34. Grouping data
+- [x] 35. Bringing it all together
 <br>
 
 ## Merging DataFrames with pandas
