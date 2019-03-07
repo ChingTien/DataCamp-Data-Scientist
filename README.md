@@ -68,7 +68,7 @@
 <br>
 
 ## Merging DataFrames with pandas
-- [ ] 36. Preparing data
+- [x] 36. Preparing data
 - [ ] 37. Concatenating data
 - [ ] 38. Merging data
 - [ ] 39. Case Study - Summer Olympics
