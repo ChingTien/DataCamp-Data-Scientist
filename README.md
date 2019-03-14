@@ -67,11 +67,12 @@
 - [x] 35. Bringing it all together
 <br>
 
-## Merging DataFrames with pandas
+## [Merging DataFrames with pandas](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/j.%20Merging%20DataFrames%20with%20pandas.pdf)
+![alt txt](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/j.%20Merging%20DataFrames%20with%20pandas.pdf)
 - [x] 36. Preparing data
 - [x] 37. Concatenating data
 - [x] 38. Merging data
-- [ ] 39. Case Study - Summer Olympics
+- [x] 39. Case Study - Summer Olympics
 <br>
 
 ## Intro to SQL for Data Science
