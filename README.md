@@ -26,24 +26,28 @@
 <br>
 
 ## [Python Data Science Toolbox (Part 2)](https://github.com/ChingTien/DataCamp/blob/master/d.%20Statement%20of%20Accomplishment-%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf)
+
 - [x] 13. Using iterators in PythonLand
 - [x] 14. List comprehensions and generators
 - [x] 15. Bringing it all together!
 <br>
 
 ## [Importing Data in Python (Part 1)](https://github.com/ChingTien/DataCamp/blob/master/e.%20Statement%20of%20Accomplishment%20-%20Importing%20Data%20in%20Python%20(Part%201)%20Course.pdf)
+
 - [x] 16. Introduction and flat files
 - [x] 17. Importing data from other file types
 - [x] 18. Working with relational databases in Python
 <br>
 
 ## [Importing Data in Python (Part 2)](https://github.com/ChingTien/DataCamp/blob/master/f.%20Statement%20of%20Accomplishment%20-%20Importing%20Data%20in%20Python%20(Part%202)%20Course.pdf)
+
 - [x] 19. Importing data from the Internet
 - [x] 20. Interacting with APIs to import data from the web
 - [x] 21. Diving deep into the Twitter API
 <br>
 
 ## [Cleaning Data in Python](https://github.com/ChingTien/DataCamp/blob/master/g.%20Statement%20of%20Accomplishment%20-%20Cleaning%20Data%20in%20Python%20Course.pdf)
+
 - [x] 22. Exploring your data
 - [x] 23. Tidying data for analysis
 - [x] 24. Combining data for analysis
@@ -60,6 +64,7 @@
 <br>
 
 ## [Manipulating DataFrames with pandas](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/i.%20Statement%20of%20Accomplishment%20-%20Manipulating%20DataFrames%20with%20pandas%20Course.pdf)
+
 - [x] 31. Extracting and transforming data
 - [x] 32. Advanced indexing
 - [x] 33. Rearranging and reshaping data
@@ -68,18 +73,19 @@
 <br>
 
 ## [Merging DataFrames with pandas](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/j.%20Merging%20DataFrames%20with%20pandas.pdf)
-![alt txt](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/j.%20Merging%20DataFrames%20with%20pandas.pdf)
+
 - [x] 36. Preparing data
 - [x] 37. Concatenating data
 - [x] 38. Merging data
 - [x] 39. Case Study - Summer Olympics
 <br>
 
-## Intro to SQL for Data Science
-- [ ] 40. Selecting columns
-- [ ] 41. Filtering rows
-- [ ] 42. Aggregate Functions
-- [ ] 43. Sorting, grouping and joins
+## [Intro to SQL for Data Science](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/k.%20Intro%20to%20SQL%20for%20Data%20Science.pdf)
+
+- [x] 40. Selecting columns
+- [x] 41. Filtering rows
+- [x] 42. Aggregate Functions
+- [x] 43. Sorting, grouping and joins
 <br>
 
 ## Introduction to Databases in Python
