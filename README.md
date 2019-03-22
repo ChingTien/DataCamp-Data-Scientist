@@ -89,9 +89,9 @@
 <br>
 
 ## Introduction to Databases in Python
-- [ ] 44. Basics of Relational Databases
-- [ ] 45. Applying Filtering, Ordering and Grouping to Queries
-- [ ] 46. Advanced SQLAlchemy Queries
+- [x] 44. Basics of Relational Databases
+- [x] 45. Applying Filtering, Ordering and Grouping to Queries
+- [x] 46. Advanced SQLAlchemy Queries
 - [ ] 47. Creating and Manipulating your own Databases
 - [ ] 48. Putting it all together
 <br>
