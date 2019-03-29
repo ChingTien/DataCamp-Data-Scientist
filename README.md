@@ -97,9 +97,9 @@
 <br>
 
 ## Introduction to Data Visualization with Python
-- [ ] 49. Customizing plots
-- [ ] 50. Plotting 2D arrays
-- [ ] 51. Statistical plots with Seaborn
+- [x] 49. Customizing plots
+- [x] 50. Plotting 2D arrays
+- [x] 51. Statistical plots with Seaborn
 - [ ] 52. Analyzing time series and images
 <br>
 
