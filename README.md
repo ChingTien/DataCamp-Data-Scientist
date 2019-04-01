@@ -39,14 +39,14 @@
 - [x] 18. Working with relational databases in Python
 <br>
 
-## [Importing Data in Python (Part 2)](https://github.com/ChingTien/DataCamp/blob/master/f.%20Statement%20of%20Accomplishment%20-%20Importing%20Data%20in%20Python%20(Part%202)%20Course.pdf)
+## [Importing Data in Python (Part 2)](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/f.%20Importing%20Data%20in%20Python%20(Part%202).pdf)
 
 - [x] 19. Importing data from the Internet
 - [x] 20. Interacting with APIs to import data from the web
 - [x] 21. Diving deep into the Twitter API
 <br>
 
-## [Cleaning Data in Python](https://github.com/ChingTien/DataCamp/blob/master/g.%20Statement%20of%20Accomplishment%20-%20Cleaning%20Data%20in%20Python%20Course.pdf)
+## [Cleaning Data in Python](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/g.%20Cleaning%20Data%20in%20Python.pdf)
 
 - [x] 22. Exploring your data
 - [x] 23. Tidying data for analysis
@@ -55,7 +55,7 @@
 - [x] 26. Case study
 <br>
 
-## [Pandas Foundations](https://github.com/ChingTien/DataCamp/blob/master/h.%20Statement%20of%20Accomplishment%20-%20pandas%20Foundations%20Course.pdf)
+## [Pandas Foundations](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/h.%20pandas%20Foundations.pdf)
 
 - [x] 27. Data ingestion & inspection
 - [x] 28. Exploratory data analysis
@@ -63,7 +63,7 @@
 - [x] 30. Case Study - Sunlight in Austin
 <br>
 
-## [Manipulating DataFrames with pandas](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/i.%20Statement%20of%20Accomplishment%20-%20Manipulating%20DataFrames%20with%20pandas%20Course.pdf)
+## [Manipulating DataFrames with pandas](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/i.%20Manipulating%20DataFrames%20with%20pandas.pdf)
 
 - [x] 31. Extracting and transforming data
 - [x] 32. Advanced indexing
@@ -96,11 +96,11 @@
 - [x] 48. Putting it all together
 <br>
 
-## Introduction to Data Visualization with Python
+## [Introduction to Data Visualization with Python](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/m.%20Introduction%20to%20Data%20Visualization%20with%20Python.pdf)
 - [x] 49. Customizing plots
 - [x] 50. Plotting 2D arrays
 - [x] 51. Statistical plots with Seaborn
-- [ ] 52. Analyzing time series and images
+- [x] 52. Analyzing time series and images
 <br>
 
 ## Interactive Data Visualization with Bokeh
