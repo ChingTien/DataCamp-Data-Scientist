@@ -104,10 +104,10 @@
 <br>
 
 ## Interactive Data Visualization with Bokeh
-- [ ] 53. Basic plotting with Bokeh
-- [ ] 54. Layouts, Interactions, and Annotations
-- [ ] 55. Building interactive apps with Bokeh
-- [ ] 56. Putting It All Together! A Case Study
+- [x] 53. Basic plotting with Bokeh
+- [x] 54. Layouts, Interactions, and Annotations
+- [x] 55. Building interactive apps with Bokeh
+- [x] 56. Putting It All Together! A Case Study
 <br>
 
 ## Statistical Thinking in Python (Part 1)
