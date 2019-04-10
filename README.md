@@ -103,7 +103,7 @@
 - [x] 52. Analyzing time series and images
 <br>
 
-## Interactive Data Visualization with Bokeh
+## [Interactive Data Visualization with Bokeh](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/n.%20Interactive%20Data%20Visualization%20with%20Bokeh.pdf)
 - [x] 53. Basic plotting with Bokeh
 - [x] 54. Layouts, Interactions, and Annotations
 - [x] 55. Building interactive apps with Bokeh
