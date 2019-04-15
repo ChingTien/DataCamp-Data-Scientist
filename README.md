@@ -111,8 +111,8 @@
 <br>
 
 ## Statistical Thinking in Python (Part 1)
-- [ ] 57. Graphical exploratory data analysis
-- [ ] 58. Quantitative exploratory data analysis
+- [x] 57. Graphical exploratory data analysis
+- [x] 58. Quantitative exploratory data analysis
 - [ ] 59. Thinking probabilistically-- Discrete variables
 - [ ] 60. Thinking probabilistically-- Continuous variables
 <br>
