@@ -1,7 +1,7 @@
 # Data Scientist with Python
 <br>
 
-## [Introduction to Python](https://github.com/ChingTien/DataCamp/blob/master/a.%20Statement%20of%20Accomplishment%20-%20Introduction%20to%20Python%20Course.pdf)
+## [Introduction to Python](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/a.%20Introduction%20to%20Python.pdf)
 
 - [x] 01. Python Basic
 - [x] 02. Python Lists
@@ -9,7 +9,7 @@
 - [x] 04. Numpy
 <br>
 
-## [Intermediate Python for Data science](https://github.com/ChingTien/DataCamp/blob/master/b.%20Statement%20of%20Accomplishment%20-%20Intermediate%20Python%20for%20Data%20Science%20Course.pdf)
+## [Intermediate Python for Data science](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/b.%20Intermediate%20Python%20for%20Data%20Science.pdf)
 
 - [x] 05. Matplotlib
 - [x] 06. Dictionaries & Pandas
@@ -18,21 +18,21 @@
 - [x] 09. Case Study: Hacker Statistics
 <br>
 
-## [Python Data Science Toolbox (Part 1)](https://github.com/ChingTien/DataCamp/blob/master/c.%20%20Statement%20of%20Accomplishment%20-Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
+## [Python Data Science Toolbox (Part 1)](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/c.%20Python%20Data%20Science%20Toolbox%20(Part%201).pdf)
 
 - [x] 10. Writing your own functions
 - [x] 11. Default arguments, variable-length arguments and scope
 - [x] 12. Lambda functions and error-handling
 <br>
 
-## [Python Data Science Toolbox (Part 2)](https://github.com/ChingTien/DataCamp/blob/master/d.%20Statement%20of%20Accomplishment-%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf)
+## [Python Data Science Toolbox (Part 2)](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/d.%20Python%20Data%20Science%20Toolbox%20(Part%202).pdf)
 
 - [x] 13. Using iterators in PythonLand
 - [x] 14. List comprehensions and generators
 - [x] 15. Bringing it all together!
 <br>
 
-## [Importing Data in Python (Part 1)](https://github.com/ChingTien/DataCamp/blob/master/e.%20Statement%20of%20Accomplishment%20-%20Importing%20Data%20in%20Python%20(Part%201)%20Course.pdf)
+## [Importing Data in Python (Part 1)](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/e.%20Importing%20Data%20in%20Python%20(Part%201).pdf)
 
 - [x] 16. Introduction and flat files
 - [x] 17. Importing data from other file types
@@ -110,7 +110,7 @@
 - [x] 56. Putting It All Together! A Case Study
 <br>
 
-## Statistical Thinking in Python (Part 1)
+## [Statistical Thinking in Python (Part 1)](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/o.%20Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
 - [x] 57. Graphical exploratory data analysis
 - [x] 58. Quantitative exploratory data analysis
 - [ ] 59. Thinking probabilistically-- Discrete variables
