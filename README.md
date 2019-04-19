@@ -113,13 +113,13 @@
 ## [Statistical Thinking in Python (Part 1)](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/o.%20Statistical%20Thinking%20in%20Python%20(Part%201).pdf)
 - [x] 57. Graphical exploratory data analysis
 - [x] 58. Quantitative exploratory data analysis
-- [ ] 59. Thinking probabilistically-- Discrete variables
-- [ ] 60. Thinking probabilistically-- Continuous variables
+- [x] 59. Thinking probabilistically-- Discrete variables
+- [x] 60. Thinking probabilistically-- Continuous variables
 <br>
 
 ## Statistical Thinking in Python (Part 2)
-- [ ] 61. Parameter estimation by optimization
-- [ ] 62. Bootstrap confidence intervals
+- [x] 61. Parameter estimation by optimization
+- [x] 62. Bootstrap confidence intervals
 - [ ] 63. Introduction to hypothesis testing
 - [ ] 64. Hypothesis test examples
 - [ ] 65. Putting it all together: a case study
