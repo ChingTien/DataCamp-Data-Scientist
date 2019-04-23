@@ -117,12 +117,12 @@
 - [x] 60. Thinking probabilistically-- Continuous variables
 <br>
 
-## Statistical Thinking in Python (Part 2)
+## [Statistical Thinking in Python (Part 2)](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/p.%20Statistical%20Thinking%20in%20Python%20(Part%202).pdf)
 - [x] 61. Parameter estimation by optimization
 - [x] 62. Bootstrap confidence intervals
-- [ ] 63. Introduction to hypothesis testing
-- [ ] 64. Hypothesis test examples
-- [ ] 65. Putting it all together: a case study
+- [x] 63. Introduction to hypothesis testing
+- [x] 64. Hypothesis test examples
+- [x] 65. Putting it all together: a case study
 <br>
 
 ## Joining Data in SQL
