@@ -126,8 +126,8 @@
 <br>
 
 ## Joining Data in SQL
-- [ ] 66. Introduction to joins
-- [ ] 67. Outer joins and cross joins
+- [x] 66. Introduction to joins
+- [x] 67. Outer joins and cross joins
 - [ ] 68. Set theory clauses
 - [ ] 69. Subqueries
 <br>
