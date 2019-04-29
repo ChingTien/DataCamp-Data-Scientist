@@ -125,11 +125,11 @@
 - [x] 65. Putting it all together: a case study
 <br>
 
-## Joining Data in SQL
+## [Joining Data in SQL](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/q.%20Joining%20Data%20in%20SQL.pdf)
 - [x] 66. Introduction to joins
 - [x] 67. Outer joins and cross joins
-- [ ] 68. Set theory clauses
-- [ ] 69. Subqueries
+- [x] 68. Set theory clauses
+- [x] 69. Subqueries
 <br>
 
 ## Supervised Learning with scikit-learn
