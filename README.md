@@ -132,11 +132,11 @@
 - [x] 69. Subqueries
 <br>
 
-## Supervised Learning with scikit-learn
-- [ ] 70. Classification
-- [ ] 71. Regression
-- [ ] 72. Fine-tuning your model
-- [ ] 73. Preprocessing and pipelines
+## [Supervised Learning with scikit-learn](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/r.%20Supervised%20Learning%20with%20scikit-learn.pdf)
+- [x] 70. Classification
+- [x] 71. Regression
+- [x] 72. Fine-tuning your model
+- [x] 73. Preprocessing and pipelines
 <br>
 
 ## Machine Learning with the Experts: School Budgets
