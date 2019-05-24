@@ -140,10 +140,10 @@
 <br>
 
 ## Machine Learning with the Experts: School Budgets
-- [ ] 74. Exploring the raw data
-- [ ] 75. Creating a simple first model
-- [ ] 76. Improving your model
-- [ ] 77. Learning from the experts
+- [x] 74. Exploring the raw data
+- [x] 75. Creating a simple first model
+- [x] 76. Improving your model
+- [x] 77. Learning from the experts
 <br>
 
 ## Unsupervised Learning in Python
