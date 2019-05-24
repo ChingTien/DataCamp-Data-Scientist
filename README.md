@@ -139,7 +139,7 @@
 - [x] 73. Preprocessing and pipelines
 <br>
 
-## Machine Learning with the Experts: School Budgets
+## [Machine Learning with the Experts: School Budgets](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/s.%20Machine%20Learning%20with%20the%20Experts.pdf)
 - [x] 74. Exploring the raw data
 - [x] 75. Creating a simple first model
 - [x] 76. Improving your model
