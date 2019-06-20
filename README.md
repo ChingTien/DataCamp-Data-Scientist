@@ -149,7 +149,7 @@
 ## Unsupervised Learning in Python
 - [x] 78. Clustering for dataset exploration
 - [x] 79. Visualization with hierarchical clustering and t-SNE
-- [ ] 80. Decorrelating your data and dimension reduction
+- [x] 80. Decorrelating your data and dimension reduction
 - [ ] 81. Discovering interpretable features
 <br>
 
