@@ -146,23 +146,31 @@
 - [x] 77. Learning from the experts
 <br>
 
-## Unsupervised Learning in Python
+## [Unsupervised Learning in Python](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/t.%20Unsupervised%20Learning%20in%20Python.pdf)
 - [x] 78. Clustering for dataset exploration
 - [x] 79. Visualization with hierarchical clustering and t-SNE
 - [x] 80. Decorrelating your data and dimension reduction
-- [ ] 81. Discovering interpretable features
+- [x] 81. Discovering interpretable features
+<br>
+
+## [Machine Learning with Tree-Based Models in Python]
+- [ ] 82. Classification and Regression Trees
+- [ ] 83. The Bias-Variance Tradeoff
+- [ ] 84. Bagging and Random Forests
+- [ ] 85. Boosting
+- [ ] 86. Model Tuning
 <br>
 
 ## Deep Learning in Python
-- [ ] 82. Basics of deep learning and neural networks
-- [ ] 83. Optimizing a neural network with backward propagation
-- [ ] 84. Building deep learning models with keras
-- [ ] 85. Fine-tuning keras models
+- [ ] 87. Basics of deep learning and neural networks
+- [ ] 88. Optimizing a neural network with backward propagation
+- [ ] 89. Building deep learning models with keras
+- [ ] 90. Fine-tuning keras models
 <br>
 
 ## Network Analysis in Python (Part 1)
-- [ ] 86. Introduction to networks
-- [ ] 87. Important nodes
-- [ ] 88. Structures
-- [ ] 89. Bringing it all together
+- [ ] 91. Introduction to networks
+- [ ] 92. Important nodes
+- [ ] 93. Structures
+- [ ] 94. Bringing it all together
 <br>
