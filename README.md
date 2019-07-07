@@ -167,7 +167,7 @@
 - [ ] 89. Bringing it all together
 <br>
 
-## [Machine Learning with Tree-Based Models in Python]()
+## [Machine Learning with Tree-Based Models in Python](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/w.%20Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python.pdf)
 - [ ] 90. Classification and Regression Trees
 - [ ] 91. The Bias-Variance Tradeoff
 - [ ] 92. Bagging and Random Forests
