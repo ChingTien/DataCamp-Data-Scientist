@@ -153,11 +153,11 @@
 - [x] 81. Discovering interpretable features
 <br>
 
-## Deep Learning in Python
-- [ ] 82. Basics of deep learning and neural networks
-- [ ] 83. Optimizing a neural network with backward propagation
-- [ ] 84. Building deep learning models with keras
-- [ ] 85. Fine-tuning keras models
+## [Deep Learning in Python](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/u.%20Deep%20Learning%20in%20Python.pdf)
+- [x] 82. Basics of deep learning and neural networks
+- [x] 83. Optimizing a neural network with backward propagation
+- [x] 84. Building deep learning models with keras
+- [x] 85. Fine-tuning keras models
 <br>
 
 ## Network Analysis in Python (Part 1)
@@ -168,9 +168,9 @@
 <br>
 
 ## [Machine Learning with Tree-Based Models in Python](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/w.%20Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python.pdf)
-- [ ] 90. Classification and Regression Trees
-- [ ] 91. The Bias-Variance Tradeoff
-- [ ] 92. Bagging and Random Forests
-- [ ] 93. Boosting
-- [ ] 94. Model Tuning
+- [x] 90. Classification and Regression Trees
+- [x] 91. The Bias-Variance Tradeoff
+- [x] 92. Bagging and Random Forests
+- [x] 93. Boosting
+- [x] 94. Model Tuning
 <br>
