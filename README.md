@@ -160,11 +160,11 @@
 - [x] 85. Fine-tuning keras models
 <br>
 
-## Network Analysis in Python (Part 1)
-- [ ] 86. Introduction to networks
-- [ ] 87. Important nodes
-- [ ] 88. Structures
-- [ ] 89. Bringing it all together
+## [Network Analysis in Python (Part 1)](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/v.%20Network%20Analysis%20in%20Python%20(Part%201).pdf)
+- [x] 86. Introduction to networks
+- [x] 87. Important nodes
+- [x] 88. Structures
+- [x] 89. Bringing it all together
 <br>
 
 ## [Machine Learning with Tree-Based Models in Python](https://github.com/ChingTien/DataCamp-Data-Scientist/blob/master/w.%20Machine%20Learning%20with%20Tree-Based%20Models%20in%20Python.pdf)
